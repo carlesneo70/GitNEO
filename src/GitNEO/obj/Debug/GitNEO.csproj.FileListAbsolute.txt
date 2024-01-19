@@ -1,0 +1,12 @@
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.FrmMain.resources
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.Properties.Resources.resources
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.csproj.GenerateResource.cache
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.csproj.CoreCompileInputs.cache
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\bin\Debug\GitNEO.exe.config
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\bin\Debug\GitNEO.exe
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\bin\Debug\GitNEO.pdb
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.exe
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.pdb
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.FrmDialog.resources
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.FrmToast.resources
+D:\DEV\git-neo-1.0.0\src\GitNEO\GitNEO\obj\Debug\GitNEO.csproj.AssemblyReference.cache
