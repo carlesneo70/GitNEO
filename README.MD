@@ -23,6 +23,7 @@
 ## About The Project
 
 ![Screen Shot](images/Screen1.png)
+![Screen Shot](images/Screen3.png)
 ![Screen Shot](images/Screen2.png)
 
 Aplikasi OpenSource untuk melakukan kloning dari GitHub ke direktori yang diinginkan. Aplikasi ini memerlukan instalasi Git sebelumnya dan hanya menggunakan command prompt sebagai perantara.
